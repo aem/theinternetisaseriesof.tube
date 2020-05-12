@@ -1,1 +1,1 @@
-Welcome to the repo for [theinternetisaseriesoftube.com](https://theinternetisaseriesoftube.com). It's exactly as dumb as it looks. No build process, I even minified the HTML manually using a CLI tool. Let's hear it for modern web dev 🤙🏼
+Welcome to the repo for [theinternetisaseriesof.tube](https://theinternetisaserieso.tube). It's exactly as dumb as it looks. No build process, I even minified the HTML manually using a CLI tool. Let's hear it for modern web dev 🤙🏼
